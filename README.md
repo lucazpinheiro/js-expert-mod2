@@ -1,6 +1,4 @@
-
-
-Module 2 - final project
+# Module 2 - final project
 
 ## Story: Renting a car
 
