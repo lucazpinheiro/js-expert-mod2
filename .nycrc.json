@@ -7,5 +7,6 @@
     "reporter": [
         "html",
         "test"
-    ]
+    ],
+    "exclude": ["src/repository/base*.js"]
 }
